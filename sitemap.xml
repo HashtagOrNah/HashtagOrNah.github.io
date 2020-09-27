@@ -1,0 +1,27 @@
+<?xml-stylesheet type="text/xsl" href="https://hashtagornah.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://hashtagornah.github.io/posts/about/</loc>
+    <lastmod>2020-09-27T14:00:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hashtagornah.github.io/</loc>
+    <lastmod>2020-09-27T14:00:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hashtagornah.github.io/posts/</loc>
+    <lastmod>2020-09-27T14:00:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hashtagornah.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hashtagornah.github.io/tags/</loc>
+  </url>
+  
+</urlset>
